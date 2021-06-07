@@ -73,3 +73,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### about website
 #### this website is for hornedbeasts to show some photos about them and information 
 ####  author yazan ahmad
+
+
+ ## Number and name of feature: _#1 Display images_______________________________
+
+## Estimate of time needed to complete: __1hour___
+
+## Start time: __2:15pm___
+
+## Finish time: __2:45pm___
+
+## Actual time needed to complete: __30min___
+
+
+
+## Number and name of feature: _______#2: Allow users to vote for their favorite beast_________________________
+
+## Estimate of time needed to complete: __1hour and 30 min__
+
+## Start time: ___3pm__
+
+## Finish time: ___4:30pm__
+
+## Actual time needed to complete: __1hour and 30 min___
