@@ -96,3 +96,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Finish time: ___4:30pm__
 
 ## Actual time needed to complete: __1hour and 30 min___
+
+
+## Number and name of feature: __________ Display a Modal______________________
+
+## Estimate of time needed to complete: __2 hours___
+
+## Start time: __10pm___
+
+## Finish time: _ 2:30am___
+## Actual time needed to complete: _4horus and 30 min  ____
