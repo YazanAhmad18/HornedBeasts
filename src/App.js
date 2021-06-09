@@ -3,19 +3,36 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './component/Header';
 import Footer from './component/Footer';
 import Main from './component/Main';
-import SelectedBeast from './component/SelectedBeast';
+import hornedBeasts from './component/data.json';
+
 
 
 
 
 class App extends React.Component{
+  constructor(props){
+    super(props)
+    this.state={
+      dataHorn:hornedBeasts
+    }
+  }
+  displayFilteredImages = (newHorns) =>{
+    this.setState ({
+      dataHorn: newHorns
+
+    })
+  }
+  
   render(){
     return (
       <div>
         <Header/>
-        <Main/>
+        <Main displayFilteredImages={this.displayFilteredImages}
+        dataHorn={this.state.dataHorn}
+        />
+
         <Footer/>
-       < SelectedBeast/>
+     
 
       </div>
 
