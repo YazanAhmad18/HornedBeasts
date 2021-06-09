@@ -106,3 +106,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Finish time: _ 2:30am___
 ## Actual time needed to complete: _4horus and 30 min  ____
+
+
+## Number and name of feature: __________ Filter by Numbers of Horns______________________
+
+## Estimate of time needed to complete: __1 hours___
+
+## Start time: __8pm___
+
+## Finish time: _ 11pm___
+## Actual time needed to complete: _3hours ____
